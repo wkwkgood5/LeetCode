@@ -31,7 +31,7 @@ public class Solution {
 //     i
 //         j
 // 0 1 3 2 3 0 4 2
-//       i
+//       i         4
 //         j
 // 0 1 3 2 3 0 4 2
 //       i
