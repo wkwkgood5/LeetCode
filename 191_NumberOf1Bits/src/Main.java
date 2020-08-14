@@ -4,6 +4,6 @@ public class Main {
         int n = 111;
         Solution solution = new Solution();
         int res = solution.hammingWeight(n);
-        System.out.println(res);
+        System.out.println(res);//
     }
 }
